@@ -10,6 +10,6 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
     // тест гитхаба
-    // новый тест гита
+    // новый тест гита 2
 
 }
